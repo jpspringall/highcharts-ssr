@@ -1,0 +1,31 @@
+# OS generated files #
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Node Files #
+node_modules/
+npm-debug.log
+npm-debug.log.*
+
+# IDE #
+.idea/
+*.swp
+.vscode/
+.vs/
+
+
+# Log Files #
+**/*.log
+
+# Package Lock #
+**/package-lock.json
+
+# Yarn #
+yarn.lock
+
+# Unit Testing #
+reports/
+.nyc_output/
+
+dist
